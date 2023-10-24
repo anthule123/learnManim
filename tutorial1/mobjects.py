@@ -3,7 +3,7 @@ from manim import *
 class NameOfAnimation(Scene):
     def construct(self):
         # Code Here
-        box = Rectangle(stroke_color=GREEN_C,
+        box = Rectangle(stroke_color=RED,
                         stroke_opacity =0.7,
                         fill_color=RED_C,
                         fill_opacity=0.5,
