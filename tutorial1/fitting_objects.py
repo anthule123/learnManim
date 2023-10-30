@@ -18,7 +18,7 @@ class FittingObjects(Scene):
         ).set_height(2).shift(DOWN*2 + RIGHT*3)
         self.play(Write(axes))
         self.play(DrawBorderThenFill(circle))
-        self.play(DrawBorderThenFill(triangle))
+        #self.play(DrawBorderThenFill(triangle))
         self.play(Transform(circle, triangle), run_time=3)
                         
                         
