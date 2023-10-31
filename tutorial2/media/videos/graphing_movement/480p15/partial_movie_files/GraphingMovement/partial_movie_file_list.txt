@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimParty/learn/tutorial2/media/videos/graphing_movement/480p15/partial_movie_files/GraphingMovement/4266129954_3383735007_223132457.mp4'
+file 'file:D:/ManimParty/learn/tutorial2/media/videos/graphing_movement/480p15/partial_movie_files/GraphingMovement/1442284246_246983373_359913990.mp4'
+file 'file:D:/ManimParty/learn/tutorial2/media/videos/graphing_movement/480p15/partial_movie_files/GraphingMovement/1442284246_1144182472_814455222.mp4'
