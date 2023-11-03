@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/2173882768_3315967912_1564047011.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/3089694883_1966510806_1305646710.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/3839147224_1804042621_1244927939.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/3012905189_3989707736_1532539671.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/3727916791_3784308617_2487394621.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/808713013_1925445276_2410421811.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/1947125477_3784308617_2216264934.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/1448878094_1327153370_4074407147.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/2396067188_3784308617_1461058481.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/4270016872_1804042621_1135467164.mp4'
+file 'file:D:/ManimParty/learn/tutorial4/media/videos/tute1/480p15/partial_movie_files/Tute1/1147761565_3784308617_369058822.mp4'
